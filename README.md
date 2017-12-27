@@ -1,4 +1,4 @@
-# LineSegmentCrossingSquares
+# LineSegmentIntersectingSquares
 C# implementation of getting line segment intersecting squares algorithm
 
 The algorithm determines all squares that intersect the line segment. 
