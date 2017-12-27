@@ -1,4 +1,4 @@
-﻿namespace LineSegmentCrossingSquares
+﻿namespace LineSegmentIntersectingSquares
 {
     public class Point
     {
