@@ -74,7 +74,7 @@ namespace LineSegmentIntersectingSquares
         /// <returns></returns>
         private static int GetSquareIndex(double value, int squareSide)
         {
-            return (int)Math.Truncate(value / squareSide);
+            return (int)Math.Floor(value / squareSide);
         }
     }
 }
