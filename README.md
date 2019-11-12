@@ -7,4 +7,4 @@ There are some similar algorithms that can form close approximation to a straigh
 
 The idea is to iteratively increase x value from start line segment point x to end line segment point x on one square size. During every x iteration we find 2 intersecting points with vertical lines: x and x + square size. Then we iterate y within these 2 points to collect intersecting squares. See this gif to get the idea.  
 
-![Alt Text](https://media.giphy.com/media/3ohc18F7EHVVHDHMnS/giphy.gif)
+![Alt Text](https://github.com/morozec/LineSegmentIntersectingSquares/blob/master/giphy.gif)
